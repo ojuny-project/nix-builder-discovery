@@ -1,6 +1,18 @@
 {
   "repo": "ojuny-project/nix-builder-discovery",
   "system": "x86_64-linux",
-  "latest": "",
-  "releases": {}
+  "latest": "v0.1.0",
+  "releases": {
+    "v0.1.0": {
+      "tag": "v0.1.0",
+      "version": "0.1.0",
+      "packages": {
+        "nix-builder-discovery": {
+          "file": "nix-builder-discovery.bin",
+          "url": "https://github.com/ojuny-project/nix-builder-discovery/releases/download/v0.1.0/nix-builder-discovery.bin",
+          "hash": "sha256-RMBf2yyH3fVj+/Yp1RFlTCSv3tHXBRHuq5X5bp2DjPE="
+        }
+      }
+    }
+  }
 }
