@@ -92,3 +92,4 @@ in `binary-url.json`.
 ## License
 
 GPL-3.0-only. See [LICENSE](LICENSE).
+
